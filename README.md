@@ -1,4 +1,4 @@
-# Hi nerds, I'm leeyazhou.
+# Hi there, I'm leeyazhou.
 
 Wish you have a nice day.
 

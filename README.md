@@ -11,6 +11,6 @@ Wish you have a nice day.
 
 <img src="https://github-profile-trophy.vercel.app/?username=leeyazhou&row=2&column=5" alt="leeyazhou" />
 
-## Contritube
+## Contributor
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leeyazhou&repo=flower)](https://github.com/leeyazhou/flower)

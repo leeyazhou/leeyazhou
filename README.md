@@ -12,5 +12,5 @@ Wish you have a nice day.
 ## Contributor
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netty&repo=netty)](https://github.com/netty/netty)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=tomcat)](https://github.com/apache/tomcat)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alibaba&repo=fatjson2)](https://github.com/alibaba/fatjson2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alibaba&repo=fastjson2)](https://github.com/alibaba/fastjson2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leeyazhou&repo=flower)](https://github.com/leeyazhou/flower)

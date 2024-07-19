@@ -11,4 +11,4 @@ Wish you have a nice day.
 
 <img height="130px" src="https://github-readme-stats.vercel.app/api?username=leeyazhou&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="leeyazhou's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=leeyazhou&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leeyazhou" alt="leeyazhou" /></a></p>
+<img src="https://github-profile-trophy.vercel.app/?username=leeyazhou&row=2" alt="leeyazhou" />

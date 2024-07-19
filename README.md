@@ -15,3 +15,4 @@ Wish you have a nice day.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alibaba&repo=fastjson2)](https://github.com/alibaba/fastjson2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alibaba&repo=QLExpress)](https://github.com/alibaba/QLExpress)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leeyazhou&repo=flower)](https://github.com/leeyazhou/flower)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofa-framework&repo=sofa)](https://github.com/sofa-framework/sofa)

@@ -9,8 +9,6 @@ Wish you have a nice day.
 
 <img height="130px" src="https://github-readme-stats.vercel.app/api?username=leeyazhou&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="leeyazhou's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=leeyazhou&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
 
-[![leeyazhou's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leeyazhou&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## Contributor
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netty&repo=netty)](https://github.com/netty/netty)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=tomcat)](https://github.com/apache/tomcat)
